@@ -1,0 +1,14 @@
+Number of Neurons: 25
+
+Number of Clusters formed: 5
+
+Size of each Cluster:
+[   4 1867  767  371 1990]
+
+Labels for each cluster (Vx, Vy):
+[[ 0.138364    0.0503605 ]
+ [ 0.08876091  0.09341216]
+ [ 0.12577404  0.06466735]
+ [ 0.12160016  0.05982155]
+ [ 0.09020175  0.10130244]]
+
